@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(53, 27, 201);
+    margin: 5px;
+    padding: 5px;
+}
+.maindiv_style{
+    background-color: rgb(43, 219, 219);
+}
+h1{
+    padding:5px;
+    text-align: center;
+}
+p{
+    color:red;
+    font-weight: bolder;
+    text-align: center;
+}

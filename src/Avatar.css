@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:5px;
+    padding:5px;
+    
+}
+.header{
+    height:240px;
+    width:180px;
+    padding: 5px;
+    box-sizing: border-box;
+    line-height: 2px;
+    text-align: center;
+    display:inline-block;
+    filter: blur(1px);
+}
+.header:hover{
+    box-shadow: 5px 5px 5px rgb(88, 86, 86);
+    filter:blur(0px);
+    cursor: pointer;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+}
+button{
+    padding:5px;
+    font-weight: bold;
+    font-family: cursive;
+    color:red;
+    background-color: rgb(238, 181, 181);
+    position:relative;
+    left:50px;
+    border-radius: 5px;
+    cursor:pointer;
+}
