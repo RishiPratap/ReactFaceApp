@@ -8,6 +8,7 @@ const Avatar = (props) => {
     return (
     <div>
     <h1> Welcome to RishiPratap Website</h1>
+    <p>Click to Reveal</p>
     <Avatarlist id="1" name="rishi"/>
     <Avatarlist id="2" name="raaj"/>
     <Avatarlist id="3" name="rahull"/>
