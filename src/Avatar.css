@@ -10,9 +10,11 @@ body{
 .header{
     height:240px;
     width:180px;
-    display:inline-block;
+    display:inline-table;
+    align-items: stretch;
     padding:10px;
     text-align: center;
+    margin:auto;
     filter: blur(1px);
 }
 .header:hover{
