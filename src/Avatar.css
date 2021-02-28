@@ -1,18 +1,19 @@
 *{
     box-sizing: border-box;
-}
-body{
-    margin:auto;
+    margin:13px;
     padding:auto;
     
+}
+body{
+    font-family:fantasy;
 }
 .header{
     height:240px;
     width:180px;
-    padding: 5px;
-    line-height: 2px;
-    text-align: center;
     display:inline-block;
+    line-height:10px;
+    padding:2px;
+    text-align: center;
     filter: blur(1px);
 }
 .header:hover{
