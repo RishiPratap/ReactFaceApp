@@ -10,7 +10,7 @@ body{
 .header{
     height:240px;
     width:180px;
-    display:inline-block;
+    display:inline;
     padding:10px;
     text-align: center;
     margin:auto;
